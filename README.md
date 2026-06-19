@@ -1,0 +1,1 @@
+# App-registrations-Application-objects-and-Service-principals-Entra-ID
