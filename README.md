@@ -1,5 +1,3 @@
-# App-registrations-Application-objects-and-Service-principals-Entra-ID
-
 # App registrations, Application objects, and Service principals — Entra ID (SC-300 notes)
 
 > Notes: differences between application objects and service principals in Microsoft Entra ID, how they relate, why you register apps, benefits, and traditional alternatives.
